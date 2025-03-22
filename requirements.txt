@@ -1,0 +1,11 @@
+fastapi==0.115.0             # Web framework for API
+uvicorn==0.30.6              # ASGI server to run FastAPI
+scikit-learn==1.5.2          # Machine learning library
+joblib==1.4.2                # For saving/loading models
+numpy==1.26.4                # Numerical operations
+pandas==2.2.2                # Data manipulation
+seaborn==0.13.2              # Data visualization
+matplotlib==3.8.4            # Plotting library
+mlflow==2.16.2               # Model versioning and tracking
+streamlit==1.38.0            # Frontend UI framework
+requests==2.32.3             # For HTTP requests in Streamlit
